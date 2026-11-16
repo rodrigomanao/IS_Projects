@@ -8,8 +8,8 @@ Authors: Hélder Ramos and Rodrigo Manão (group 18).
 
 | Folder | Assignment | Status |
 |--------|------------|--------|
-| `TP1/` | Testbed reconnaissance, scouting and vulnerability analysis of an OT/SCADA environment | Done |
-| `TP2/` | To be added | In progress |
+| `Project_1/` | Testbed reconnaissance, scouting and vulnerability analysis of an OT/SCADA environment | Done |
+| `Project_2/` | To be added | In progress |
 
 ## TP1: Testbed Reconnaissance, Scouting, and Vulnerability Analysis of an OT/SCADA Environment
 
